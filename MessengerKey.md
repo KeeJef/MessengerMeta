@@ -1,6 +1,6 @@
 # Message me on Loki Messenger!
 
-### My pubkey is: 05AD0DC7AD04C6A6A96E10F8158464FB7F3BD6670E6F0B88A150F9CB2075CE8D4C
+### My pubkey is: 051259e8b7abe0a2b657cc714c51d8235d2893913206fe9a53c94b767d6a559f12
 
 Jump straight on to the beta program by downloading one of the following apps:
 
@@ -10,4 +10,5 @@ Jump straight on to the beta program by downloading one of the following apps:
 
 Create an account, then send me a message, I'd love to chat!
 
+Im also on Telegram as @keejef or on twitter as @jefferyskee
 If there are any issues, please feel free to let me know by email: kee@loki.network
