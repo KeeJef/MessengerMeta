@@ -1,6 +1,6 @@
 # Message me on Loki Messenger!
 
-### My pubkey is: 0522d84c6d3fbc07cad1a465d765bd758c8314dc10877df99e8f4091b2bea52752
+### My pubkey is: 053b6b764388cd6c4d38ae0b3e7492a8ecf0076e270c013bb5693d973045f45254
 
 Jump straight on to the beta program by downloading one of the following apps:
 
