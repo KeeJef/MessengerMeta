@@ -1,6 +1,6 @@
 # Message me on Session
 
-### My pubkey is: 053b6b764388cd6c4d38ae0b3e7492a8ecf0076e270c013bb5693d973045f45254
+### My pubkey is: 052f4f8cb6f13a3fd85c78cecb6cc5797530823538a700ead4756f988446030271
 
 You can download Session by using the links below:
 
