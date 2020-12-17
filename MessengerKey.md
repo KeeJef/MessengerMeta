@@ -1,6 +1,6 @@
 # Message me on Session
 
-### My pubkey is: 052f4f8cb6f13a3fd85c78cecb6cc5797530823538a700ead4756f988446030271
+### My Session ID is: 05d871fc80ca007eed9b2f4df72853e2a2d5465a92fcb1889fb5c84aa2833b3b40
 
 You can download Session by using the links below:
 
@@ -10,5 +10,5 @@ You can download Session by using the links below:
 
 Create an account, then send me a message, I'd love to chat!
 
-Im also on Telegram as @keejef or on twitter as @jefferyskee
+Im also on Telegram as @keejef or on Twitter as @jefferyskee
 If there are any issues, please feel free to let me know by email: kee@loki.network
