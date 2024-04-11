@@ -11,4 +11,4 @@ You can download Session by using the links below:
 Create an account, then send me a message, I'd love to chat!
 
 Im also on Telegram as @keejef or on Twitter as @jefferyskee
-If there are any issues, please feel free to let me know by email: kee@loki.network
+If there are any issues, please feel free to let me know by email: kee@getsession.org
